@@ -6,7 +6,7 @@
              title="ePuzzle"
              translate="title"
              module="Magento_Backend"
-             sortOrder="80"
+             sortOrder="45"
              resource="EPuzzle_Base::base"/>
     </menu>
 </config>
